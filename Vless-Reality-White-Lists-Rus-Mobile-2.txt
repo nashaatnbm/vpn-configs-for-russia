@@ -1,10 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-04-21 / 20:48 (Moscow)
-# Количество: 4
+# Date/Time: 2026-04-21 / 21:37 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-de-2.firstvideocdn.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://75807638-6f19-0320-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&fp=chrome&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-vless://75807638-6f19-0a28-ae08-38492ee85c88@178.72.162.156:52006?type=tcp&security=tls&encryption=none&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
